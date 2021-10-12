@@ -1,0 +1,24 @@
+So I'm planning to make connect four
+
+Now that you have an idea, visualize the end result:
+
+What does your program do?
+	The program lets two players play for in a row in the terminal.
+
+How will it work in a terminal?
+	The program should display the playingboard. And ask each player alternately in which colom they want to drop a disk
+
+Is it one player or two players?
+	Two players.
+
+Make sure that it satisfies all of the project objectives.
+
+What does the program need to do:
+	It has to display the playing board and update it after every turn
+		How do I update the board? (maybe ctrl + L)
+	It has to take input from the users for example: 1, 2, 3, 4, 5, 6 , 7 for each colom.
+	It has to keep track of all the disks
+		So that it knows when a disk is being dropped on another one
+		So that it knows when someone won
+
+FCK YEAH RIGHT LOL
